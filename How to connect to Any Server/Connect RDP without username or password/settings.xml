@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+  <General>
+      <username>test123</username>
+      <password>pass123</password>
+  </General>
+  
+  	<prod>
+      <workstation name="WS123456" ip="127.0.0.0"/>
+  </prod>
+  <syst>
+      <workstation name="WS456854" ip="127.0.0.2"/>
+  </syst>
+  <test>
+      <workstation name="WS548563" ip="127.0.0.3"/>
+  </test>
+</Config>
